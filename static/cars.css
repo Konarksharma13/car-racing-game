@@ -1,0 +1,33 @@
+body
+{
+	background-image: url("car.jpg");
+	background-size:cover;
+}
+h1
+{	font-size: 80px;
+	font-family: 'Bungee Shade', cursive;
+	text-align:center; 
+	color:white;
+	top:30%;
+	transform: translateY(-70%);
+}
+.a
+{
+	position: absolute;
+	top: 20%;
+	left: 2%;
+	font-size: 50px;
+	font-family: 'Lobster', cursive;
+	color: yellow;
+	font-weight: bold;
+}
+.b
+{
+	position: absolute;
+	top: 20%;
+	left: 80%;
+	font-size: 50px;
+	font-family: 'Lobster', cursive;
+	color: lime;
+	font-weight: bold;
+}

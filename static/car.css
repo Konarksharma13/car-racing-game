@@ -1,0 +1,32 @@
+body
+{
+	background-image: url("car.jpg");
+	background-size:cover;
+}
+h1
+{	font-size: 100px;
+	font-family: 'Bungee Shade', cursive;
+	text-align:center; 
+	color:white;
+	top:50%;
+	
+	transform: translateY(-70%);
+}
+span a
+{
+	font-size: 25px;
+	color: cyan;
+}
+.a
+{
+	font-size: 25px;
+	color: cyan;	
+}
+.a:hover
+{
+	color:yellow;
+}
+span a:visited
+{	color:yellow;
+}
+
